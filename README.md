@@ -1,7 +1,8 @@
 # Face and Gait recognition on Videos
 
-This repo includes codes and resources for Face and Gait detection project we've undertaken during Summer 2018 under Dr.Sumohana Chennappayya
+> A fork of the repository maintained by my partner in the project. 
 
+This repo includes codes and resources for Face and Gait detection project we've undertaken during Summer 2018 under Dr.Sumohana Channappayya
 Here under are the original repo's we've referred to for this project
 
 1. DLib
